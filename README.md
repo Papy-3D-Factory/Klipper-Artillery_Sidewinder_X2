@@ -1,6 +1,6 @@
 # ATTENTION : Tous les fichiers relatif au dépôt sont désormais accessible sur le site https://papy-3d-factory.xyz
 
-
+# PLEASE NOTE: All files relating to the deposit are now accessible on the site https://papy-3d-factory.xyz
 
 # Artillery-Sidewinder-X2-Klipper
 
